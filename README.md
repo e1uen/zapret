@@ -75,7 +75,6 @@ sc delete WinDivert
 
 ## Support
 
-Вы можете поддержать проект, поставив :star: (сверху справа этой страницы)!  
 Также, вы можете поддержать разработчика [оригинального репозитория zapret](https://github.com/bol-van/zapret/issues/590) тут - https://github.com/bol-van/zapret/issues/590
 
 <a href="https://star-history.com/#e1uen/zapret&Date">
