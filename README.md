@@ -1,4 +1,4 @@
-# Zapret (обход блокировки Discord'а, Youtube'а, Twitter, Spotify)
+# Zapret (обход блокировки Discord'а, Youtube'а, Twitter'a, Spotify'a)
 
 > [!NOTE]  
 > Данный репозиторий - **некоммерческая** *User-Friendly* сборка [оригинального репозитория](https://github.com/bol-van/zapret). Здесь используются оригинальные бинарники, сравнить которые вы можете с помощью хэша.
@@ -15,7 +15,7 @@
 ## License
 
 Этот проект распространяется на условиях лицензии MIT.  
-Полный текст лицензии можно найти в файле [LICENSE.txt](./LICENSE)
+Полный текст лицензии можно найти в файле [LICENSE](./LICENSE)
 
 ## Guides
 ### Windows
