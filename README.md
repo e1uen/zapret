@@ -6,7 +6,7 @@
 > 
 >**Буду рад [⭐ поставленной репозиторию звезде](https://github.com/e1uen/zapret/stargazers) (в правом верхнем углу)**
 
-> Весь репозиторий копия [https://github.com/Flowseal/zapret-discord-youtube/], переделал под себя.
+> Весь репозиторий копия (Flowseal/zapret)[https://github.com/Flowseal/zapret-discord-youtube/], переделал под себя, в цели получить запретных сайтов. По типу Discord, Youtube, Twitter, Spotify. Список будет пополняться
 
 ##
 
