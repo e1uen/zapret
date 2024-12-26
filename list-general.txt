@@ -11,6 +11,7 @@ youtube-ui.l.google.com
 yt-video-upload.l.google.com
 wide-youtube.l.google.com
 youtubekids.com
+ggpht.com
 web.telegram.org
 desktop.telegram.org
 telegram.org
